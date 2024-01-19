@@ -1,0 +1,10 @@
+include:
+  - project: "ci/common-ci"
+    ref: troy
+    file: "haproxy-ci/haproxy.gitlab-ci.yml"
+  - project: "ci/common-ci"
+    ref: troy
+    file: "haproxy-ci/haproxy.sglocal.gitlab-ci.yml"
+  - project: "ci/common-ci"
+    ref: troy
+    file: "haproxy-ci/haproxy.awsdr.gitlab-ci.yml"
