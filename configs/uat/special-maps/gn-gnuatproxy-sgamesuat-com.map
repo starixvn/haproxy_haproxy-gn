@@ -1,0 +1,2 @@
+^/sit/user(/.*)?$ pentagon_gn_user_service_SIT_path_be
+^/uat/user(/.*)?$ pentagon_gn_user_service_UAT_path_be
