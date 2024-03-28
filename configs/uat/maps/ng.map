@@ -1,3 +1,5 @@
+gnsitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
+gnuatadm.sgamesuat.com pentagon_gn_admin_site_UAT_be
 gnsitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
 gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
 #domainname           #backendname
