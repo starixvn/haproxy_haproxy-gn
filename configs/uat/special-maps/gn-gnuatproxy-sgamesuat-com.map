@@ -1,2 +1,4 @@
+^/sit/notification(/.*)?$ pentagon_gn_notification_service_SIT_path_be
+^/uat/notification(/.*)?$ pentagon_gn_notification_service_UAT_path_be
 ^/sit/user(/.*)?$ pentagon_gn_user_service_SIT_path_be
 ^/uat/user(/.*)?$ pentagon_gn_user_service_UAT_path_be
