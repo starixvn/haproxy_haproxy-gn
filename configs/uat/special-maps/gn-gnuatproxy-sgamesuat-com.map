@@ -1,3 +1,5 @@
+^/sit/bacball-2(/.*)?$ pentagon_gn_bac_ball_2_service_SIT_path_be
+^/uat/bacball-2(/.*)?$ pentagon_gn_bac_ball_2_service_UAT_path_be
 ^/sit/bacball-1(/.*)?$ pentagon_gn_bac_ball_1_service_SIT_path_be
 ^/uat/bacball-1(/.*)?$ pentagon_gn_bac_ball_1_service_UAT_path_be
 ^/sit/game-management-service(/.*)?$ pentagon_gn_game_management_service_SIT_path_be
