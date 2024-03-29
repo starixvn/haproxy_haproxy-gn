@@ -1,3 +1,5 @@
+gnsitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
+gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
 gnsitguides.sgamesuat.com pentagon_gn_game_guides_SIT_be
 gnuatguides.sgamesuat.com pentagon_gn_game_guides_UAT_be
 gnsit.foodpandaoh.net pentagon_gn_game_client_SIT_be
@@ -12,6 +14,4 @@ gnsitresult.sgamesuat.com pentagon_gn_game_result_SIT_be
 gnuatresult.sgamesuat.com pentagon_gn_game_result_UAT_be
 gnsitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
 gnuatadm.sgamesuat.com pentagon_gn_admin_site_UAT_be
-gnsitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
-gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
 #domainname           #backendname
