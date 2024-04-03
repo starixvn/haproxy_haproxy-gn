@@ -8,8 +8,6 @@ gnuatow.sgamesuat.com pentagon_gn_ow_api_simulator_UAT_be
 gnsitow.sgamesuat.com pentagon_gn_ow_api_simulator_SIT_be
 gnuatlobby.sgamesuat.com pentagon_gn_game_lobby_simulator_UAT_be
 gnsitlobby.sgamesuat.com pentagon_gn_game_lobby_simulator_SIT_be
-gnsitgw.sgamesuat.com pentagon_gn_socket_gateway_SIT_be
-gnuatgw.sgamesuat.com pentagon_gn_socket_gateway_UAT_be
 gnsitresult.sgamesuat.com pentagon_gn_game_result_SIT_be
 gnuatresult.sgamesuat.com pentagon_gn_game_result_UAT_be
 gnsitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
