@@ -1,11 +1,11 @@
+^/sit/bacball2(/.*)?$ pentagon_gn_bac_ball_2_service_SIT_path_be
+^/uat/bacball2(/.*)?$ pentagon_gn_bac_ball_2_service_UAT_path_be
 ^/sit/bacball1(/.*)?$ pentagon_gn_bac_ball_1_service_SIT_path_be
 ^/uat/bacball1(/.*)?$ pentagon_gn_bac_ball_1_service_UAT_path_be
 ^/sit/gateway(/.*)?$ pentagon_gn_socket_gateway_SIT_path_be
 ^/uat/gateway(/.*)?$ pentagon_gn_socket_gateway_UAT_path_be
 ^/sit/monitoring(/.*)?$ pentagon_gn_admin_monitoring_site_SIT_path_be
 ^/uat/monitoring(/.*)?$ pentagon_gn_admin_monitoring_site_UAT_path_be
-^/sit/bacball-2(/.*)?$ pentagon_gn_bac_ball_2_service_SIT_path_be
-^/uat/bacball-2(/.*)?$ pentagon_gn_bac_ball_2_service_UAT_path_be
 ^/sit/game-management-service(/.*)?$ pentagon_gn_game_management_service_SIT_path_be
 ^/uat/game-management-service(/.*)?$ pentagon_gn_game_management_service_UAT_path_be
 ^/sit/notification(/.*)?$ pentagon_gn_notification_service_SIT_path_be
