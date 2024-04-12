@@ -1,1 +1,9 @@
-#domainname           #backendname
+api.numberx.win gn_sg_api_PROD_be
+api2.numberx.win gn_sg_api_PROD_be
+adm.numberx.win gn_admin_site_PROD_be
+adm2.numberx.win gn_admin_site_PROD_be
+result.numberx.win gn_game_result_PROD_be
+result2.numberx.win gn_game_result_PROD_be
+guides.numberx.win gn_game_guides_PROD_be
+guides2.numberx.win gn_game_guides_PROD_be
+gn.foodpandaoh.net gn_game_client_PROD_be
