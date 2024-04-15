@@ -1,4 +1,3 @@
-^/bacball1(/.*)?$ gn_bac_ball_1_service_PROD_path_be
 ^/bacball2(/.*)?$ gn_bac_ball_2_service_PROD_path_be
 ^/luckynext1(/.*)?$ gn_lucky_next_1_service_PROD_path_be
 ^/luckynext2(/.*)?$ gn_lucky_next_2_service_PROD_path_be
