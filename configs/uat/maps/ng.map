@@ -1,3 +1,7 @@
+# Internal
+intgnuatapi.nebula.prod	pentagon_gn_sg_api_UAT_be
+intgnuatresult.nebula.prod pentagon_gn_game_result_UAT_be
+
 gnsitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
 gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
 gnsitguides.sgamesuat.com pentagon_gn_game_guides_SIT_be
