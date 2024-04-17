@@ -1,14 +1,7 @@
-^/bacball1(/.*)?$ empty_backend_nodes
- # pentagon_gn_bac_ball_1_service_PROD_path_be
-^/bacball2(/.*)?$ empty_backend_nodes
-# gn_bac_ball_2_service_PROD_path_be
-^/luckynext1(/.*)?$ empty_backend_nodes
-# gn_lucky_next_1_service_PROD_path_be
-^/luckynext2(/.*)?$ empty_backend_nodes
-# gn_lucky_next_2_service_PROD_path_be
-^/gateway(/.*)?$ empty_backend_nodes
-# gn_socket_gateway_PROD_path_be
-^/notification(/.*)?$ empty_backend_nodes
-# gn_notification_service_PROD_path_be
-^/user(/.*)?$ empty_backend_nodes
-# gn_user_service_PROD_path_be
+^/bacball1(/.*)?$ pentagon_gn_bac_ball_1_service_PROD_path_be
+^/bacball2(/.*)?$ gn_bac_ball_2_service_PROD_path_be
+^/luckynext1(/.*)?$ gn_lucky_next_1_service_PROD_path_be
+^/luckynext2(/.*)?$ gn_lucky_next_2_service_PROD_path_be
+^/gateway(/.*)?$ gn_socket_gateway_PROD_path_be
+^/notification(/.*)?$ gn_notification_service_PROD_path_be
+^/user(/.*)?$ gn_user_service_PROD_path_be
