@@ -1,3 +1,4 @@
+gnuat.foodpandaoh.net pentagon_gn_game_client_UAT_be
 # Internal
 intgnuatapi.nebula.prod	pentagon_gn_sg_api_UAT_be
 intgnuatresult.nebula.prod pentagon_gn_game_result_UAT_be
@@ -7,7 +8,6 @@ gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
 gnsitguides.sgamesuat.com pentagon_gn_game_guides_SIT_be
 gnuatguides.sgamesuat.com pentagon_gn_game_guides_UAT_be
 gnsit.foodpandaoh.net pentagon_gn_game_client_SIT_be
-gnuat.foodpandaoh.net pentagon_gn_game_client_UAT_be
 gnuatow.sgamesuat.com pentagon_gn_ow_api_simulator_UAT_be
 gnsitow.sgamesuat.com pentagon_gn_ow_api_simulator_SIT_be
 gnuatlobby.sgamesuat.com pentagon_gn_game_lobby_simulator_UAT_be
