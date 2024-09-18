@@ -1,8 +1,13 @@
-gn-core-client-demo-xd.lumigame.com pentagon_gn_core_client_demo_mul_cluster_LOCAL_be
-gn-core-client-demo.lumigame.com pentagon_gn_core_client_demo_LOCAL_be
+gn-game-3.lumigame.com pentagon_gn_game_client_LOCAL_3_be
+gn-game-3.nexentgame.com pentagon_gn_game_client_LOCAL_3_be
+gn-game-2.lumigame.com pentagon_gn_game_client_LOCAL_2_be
+gn-game-2.nexentgame.com pentagon_gn_game_client_LOCAL_2_be
 gn-game-1.lumigame.com pentagon_gn_game_client_LOCAL_1_be
 gn-game-1.nexentgame.com pentagon_gn_game_client_LOCAL_1_be
-gn-game-2.lumigame.com pentagon_gn_game_client_LOCAL_2_be
+gn-game.lumigame.com pentagon_gn_game_client_LOCAL_be
+gn-game.nexentgame.com pentagon_gn_game_client_LOCAL_be
+gn-core-client-demo-xd.lumigame.com pentagon_gn_core_client_demo_mul_cluster_LOCAL_be
+gn-core-client-demo.lumigame.com pentagon_gn_core_client_demo_LOCAL_be
 gn-owapi-simulator.lumigame.com pentagon_gn_ow_api_simulator_LOCAL_be
 gn-auth.lumigame.com pentagon_gn_auth_api_LOCAL_be
 gn-guide.lumigame.com pentagon_gn_game_guides_LOCAL_be
