@@ -1,3 +1,5 @@
+^/sit/kenopower(/.*)?$ pentagon_gn_keno_power_service_SIT_path_be
+^/uat/kenopower(/.*)?$ pentagon_gn_keno_power_service_UAT_path_be
 ^/sit/user(/.*)?$ pentagon_gn_user_service_SIT_path_be
 ^/uat/user(/.*)?$ pentagon_gn_user_service_UAT_path_be
 ^/sit/sicball(/.*)?$ pentagon_gn_sic_ball_service_SIT_path_be
