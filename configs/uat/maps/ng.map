@@ -1,3 +1,9 @@
+gnsitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
+sksitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
+gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
+intgnuatapi.nebula.prod pentagon_gn_sg_api_UAT_be
+skuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
+vn-skuatapi.nebula.prod pentagon_gn_sg_api_UAT_be
 gnsitresult.sgamesuat.com pentagon_gn_game_result_SIT_be
 sksitresult.sgamesuat.com pentagon_gn_game_result_SIT_be
 gnuatresult.sgamesuat.com pentagon_gn_game_result_UAT_be
@@ -12,10 +18,7 @@ gnminiuat.foodpandaoh.net pentagon_gn_instant_game_client_UAT_be
 gnminisit.foodpandaoh.net pentagon_gn_instant_game_client_SIT_be
 gnuat.foodpandaoh.net pentagon_gn_game_client_UAT_be
 # Internal
-intgnuatapi.nebula.prod	pentagon_gn_sg_api_UAT_be
 
-gnsitapi.sgamesuat.com pentagon_gn_sg_api_SIT_be
-gnuatapi.sgamesuat.com pentagon_gn_sg_api_UAT_be
 gnsitguides.sgamesuat.com pentagon_gn_game_guides_SIT_be
 gnuatguides.sgamesuat.com pentagon_gn_game_guides_UAT_be
 gnsit.foodpandaoh.net pentagon_gn_game_client_SIT_be
