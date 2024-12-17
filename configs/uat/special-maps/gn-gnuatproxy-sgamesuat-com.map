@@ -1,3 +1,5 @@
+^/sit/kenosoccer(/.*)?$ pentagon_gn_keno_soccer_service_SIT_path_be
+^/uat/kenosoccer(/.*)?$ pentagon_gn_keno_soccer_service_UAT_path_be
 ^/sit/kenopower(/.*)?$ pentagon_gn_keno_power_service_SIT_path_be
 ^/uat/kenopower(/.*)?$ pentagon_gn_keno_power_service_UAT_path_be
 ^/sit/user(/.*)?$ pentagon_gn_user_service_SIT_path_be
