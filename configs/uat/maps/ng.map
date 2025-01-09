@@ -1,6 +1,8 @@
-hdsitadm.sgamesuat.com pentagon_sp_hd_admin_site_SIT_be
 hdsit.sgamesuat.com pentagon_sp_hd_game_client_SIT_be
+hdsit.foodpandaoh.net pentagon_sp_hd_game_client_SIT_be
 hduat.sgamesuat.com pentagon_sp_hd_game_client_UAT_be
+hduat.foodpandaoh.net pentagon_sp_hd_game_client_UAT_be
+hdsitadm.sgamesuat.com pentagon_sp_hd_admin_site_SIT_be
 hduatlobby.sgamesuat.com pentagon_sp_hd_game_lobby_simulator_UAT_be
 hdsitlobby.sgamesuat.com pentagon_sp_hd_game_lobby_simulator_SIT_be
 hduatow.sgamesuat.com pentagon_sp_hd_ow_api_simulator_UAT_be
