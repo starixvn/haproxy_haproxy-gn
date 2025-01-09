@@ -1,1 +1,2 @@
+^/notification(/.*)?$ pentagon_sp_hd_notification_service_SIT_path_be
 ^/user(/.*)?$ pentagon_sp_hd_user_service_SIT_path_be
