@@ -1,2 +1,2 @@
+^/uat/user(/.*)?$ pentagon_sp_hd_user_service_UAT_path_be
 ^/notification(/.*)?$ pentagon_sp_hd_notification_service_UAT_path_be
-^/user(/.*)?$ pentagon_sp_hd_user_service_UAT_path_be
