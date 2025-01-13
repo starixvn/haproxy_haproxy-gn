@@ -1,3 +1,4 @@
+^/uat/seball1(/.*)?$ pentagon_sp_hd_se_ball_1_service_UAT_path_be
 ^/uat/notification(/.*)?$ pentagon_sp_hd_notification_service_UAT_path_be
 ^/uat/bacball1(/.*)?$ pentagon_sp_hd_bac_ball_1_service_UAT_path_be
 ^/uat/user(/.*)?$ pentagon_sp_hd_user_service_UAT_path_be
