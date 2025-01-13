@@ -1,2 +1,3 @@
+^/sit/bacball1(/.*)?$ pentagon_sp_hd_bac_ball_1_service_SIT_path_be
 ^/sit/user(/.*)?$ pentagon_sp_hd_user_service_SIT_path_be
 ^/notification(/.*)?$ pentagon_sp_hd_notification_service_SIT_path_be
