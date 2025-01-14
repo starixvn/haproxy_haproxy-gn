@@ -1,3 +1,4 @@
+^/uat/luckythree(/.*)?$ pentagon_sp_hd_lucky_three_service_UAT_path_be
 ^/uat/luckynext1(/.*)?$ pentagon_sp_hd_lucky_next_1_service_UAT_path_be
 ^/uat/sicball(/.*)?$ pentagon_sp_hd_sic_ball_service_UAT_path_be
 ^/uat/seball1(/.*)?$ pentagon_sp_hd_se_ball_1_service_UAT_path_be
