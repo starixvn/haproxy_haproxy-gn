@@ -1,3 +1,4 @@
+^/uat/sedie(/.*)?$ pentagon_sp_hd_sedie_service_UAT_path_be
 ^/uat/gateway(/.*)?$ pentagon_sp_hd_socket_gateway_UAT_path_be
 ^/uat/luckythree(/.*)?$ pentagon_sp_hd_lucky_three_service_UAT_path_be
 ^/uat/luckynext1(/.*)?$ pentagon_sp_hd_lucky_next_1_service_UAT_path_be
