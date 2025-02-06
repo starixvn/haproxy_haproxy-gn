@@ -1,3 +1,4 @@
+^/uat/portrait-client-10(/.*)?$ pentagon_sp_hd_direct_baccarat_game_client_UAT_path_be
 ^/uat/portrait-client-22(/.*)?$ pentagon_sp_hd_portrait_vip_sedie_client_UAT_path_be
 ^/uat/baccarat(/.*)?$ pentagon_sp_hd_baccarat_service_UAT_path_be
 ^/uat/vsedie(/.*)?$ pentagon_sp_hd_vip_sedie_service_UAT_path_be
