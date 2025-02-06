@@ -1,3 +1,4 @@
+^/sit/baccarat(/.*)?$ pentagon_sp_hd_baccarat_service_SIT_path_be
 ^/sit/vsedie(/.*)?$ pentagon_sp_hd_vip_sedie_service_SIT_path_be
 ^/sit/portrait-client-2(/.*)?$ pentagon_sp_hd_portrait_sedie_game_client_SIT_path_be
 ^/sit/shared-resources(/.*)?$ pentagon_sp_shared_client_resources_SIT_path_be

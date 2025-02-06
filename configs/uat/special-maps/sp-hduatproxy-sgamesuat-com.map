@@ -1,3 +1,4 @@
+^/uat/baccarat(/.*)?$ pentagon_sp_hd_baccarat_service_UAT_path_be
 ^/uat/vsedie(/.*)?$ pentagon_sp_hd_vip_sedie_service_UAT_path_be
 ^/uat/sedie(/.*)?$ pentagon_sp_hd_sedie_service_UAT_path_be
 ^/uat/gateway(/.*)?$ pentagon_sp_hd_socket_gateway_UAT_path_be
