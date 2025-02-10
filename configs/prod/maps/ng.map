@@ -1,3 +1,9 @@
+api.numberx.win pentagon_gn_sg_api_PROD_be
+api2.numberx.win pentagon_gn_sg_api_PROD_be
+gn-prod-intapi.nebula.prod pentagon_gn_sg_api_PROD_be
+sk-prod-intapi.nebula.prod pentagon_gn_sg_api_PROD_be
+api.sabakeno.com pentagon_gn_sg_api_PROD_be
+api.kenosaba.com pentagon_gn_sg_api_PROD_be
 www.sabakeno.com pentagon_sk_game_client_PROD_be
 www.kenosaba.com pentagon_sk_game_client_PROD_be
 sk.foodpandaoh.net pentagon_sk_game_client_PROD_be
@@ -9,9 +15,6 @@ result.sabakeno.com pentagon_gn_game_result_PROD_be
 result.kenosaba.com pentagon_gn_game_result_PROD_be
 guides.sabakeno.com pentagon_sk_game_guides_PROD_be
 guides.kenosaba.com pentagon_sk_game_guides_PROD_be
-api.numberx.win pentagon_gn_sg_api_PROD_be
-api2.numberx.win pentagon_gn_sg_api_PROD_be
-gn-prod-intapi.nebula.prod pentagon_gn_sg_api_PROD_be
 adm.numberx.win pentagon_gn_admin_site_PROD_be
 adm2.numberx.win pentagon_gn_admin_site_PROD_be
 # Internal
