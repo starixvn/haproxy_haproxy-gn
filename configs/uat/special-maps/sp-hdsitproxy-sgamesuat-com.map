@@ -1,3 +1,4 @@
+^/sit/sicbo(/.*)?$ pentagon_sp_hd_sicbo_service_SIT_path_be
 ^/sit/vipfishprawncrab(/.*)?$ pentagon_sp_hd_vip_fish_prawn_crab_service_UAT_path_be
 ^/sit/portrait-client-67(/.*)?$ pentagon_sp_hd_dragon_tiger_fight_client_SIT_path_be
 ^/sit/dragontigerfight(/.*)?$ pentagon_sp_hd_dragon_tiger_fight_service_SIT_path_be
