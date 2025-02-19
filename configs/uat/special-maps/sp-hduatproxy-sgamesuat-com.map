@@ -1,3 +1,4 @@
+^/uat/portrait-client-26(/.*)?$ pentagon_sp_hd_portrait_vip_baucua_client_UAT_path_be
 ^/uat/portrait-client-25(/.*)?$ pentagon_sp_hd_sic_bo_client_UAT_path_be
 ^/uat/sicbo(/.*)?$ pentagon_sp_hd_sicbo_service_UAT_path_be
 ^/uat/vipfishprawncrab(/.*)?$ pentagon_sp_hd_vip_fish_prawn_crab_service_SIT_path_be
