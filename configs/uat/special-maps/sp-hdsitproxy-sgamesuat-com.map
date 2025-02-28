@@ -1,3 +1,4 @@
+^/sit/tapfortune(/.*)?$ pentagon_sp_hd_tap_fortune_service_SIT_path_be
 ^/sit/game(/.*)?$ pentagon_sp_hd_game_configuration_service_SIT_path_be
 ^/sit/portrait-client-107(/.*)?$ pentagon_sp_hd_tap_fortune_client_SIT_path_be
 ^/sit/vipfishprawncrab(/.*)?$ pentagon_sp_hd_vip_fish_prawn_crab_service_SIT_path_be
