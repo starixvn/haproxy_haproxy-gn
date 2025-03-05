@@ -1,10 +1,10 @@
+^/sit/portrait-client-26(/.*)?$ pentagon_sp_hd_portrait_vip_baucua_client_SIT_path_be
 ^/sit/portrait-client-22(/.*)?$ pentagon_sp_hd_portrait_vip_sedie_client_SIT_path_be
 ^/sit/portrait-client-2(/.*)?$ pentagon_sp_hd_portrait_sedie_game_client_SIT_path_be
 ^/sit/tapfortune(/.*)?$ pentagon_sp_hd_tap_fortune_service_SIT_path_be
 ^/sit/game(/.*)?$ pentagon_sp_hd_game_configuration_service_SIT_path_be
 ^/sit/portrait-client-107(/.*)?$ pentagon_sp_hd_tap_fortune_client_SIT_path_be
 ^/sit/vipfishprawncrab(/.*)?$ pentagon_sp_hd_vip_fish_prawn_crab_service_SIT_path_be
-^/sit/portrait-client-26(/.*)?$ pentagon_sp_hd_portrait_vip_baucua_client_SIT_path_be
 ^/sit/portrait-client-25(/.*)?$ pentagon_sp_hd_sic_bo_client_SIT_path_be
 ^/sit/sicbo(/.*)?$ pentagon_sp_hd_sicbo_service_SIT_path_be
 ^/sit/portrait-client-67(/.*)?$ pentagon_sp_hd_dragon_tiger_fight_client_SIT_path_be
