@@ -1,3 +1,5 @@
+^/sit/game(/.*)?$ pentagon_gn_game_configuration_service_SIT_path_be
+^/uat/game(/.*)?$ pentagon_gn_game_configuration_service_UAT_path_be
 ^/uat/minikeno(/.*)?$ pentagon_gn_mini_keno_service_UAT_path_be
 ^/sit/minikeno(/.*)?$ pentagon_gn_mini_keno_service_SIT_path_be
 ^/sit/kenosoccer(/.*)?$ pentagon_gn_keno_soccer_service_SIT_path_be
