@@ -1,6 +1,6 @@
 guides.numberx.win pentagon_gn_game_guides_PROD_be
-skguide.sabakeno.com pentagon_gn_game_guides_PROD_be
-skguide.kenosaba.com pentagon_gn_game_guides_PROD_be
+guides.sabakeno.com pentagon_gn_game_guides_PROD_be
+guides.kenosaba.com pentagon_gn_game_guides_PROD_be
 guides2.numberx.win pentagon_gn_game_guides_PROD_be
 api.numberx.win pentagon_gn_sg_api_PROD_be
 api2.numberx.win pentagon_gn_sg_api_PROD_be
@@ -17,8 +17,6 @@ sk-prod-intresult.nebula.prod pentagon_gn_game_result_PROD_be
 gn-prod-intresult.nebula.prod pentagon_gn_game_result_PROD_be
 result.sabakeno.com pentagon_gn_game_result_PROD_be
 result.kenosaba.com pentagon_gn_game_result_PROD_be
-guides.sabakeno.com pentagon_sk_game_guides_PROD_be
-guides.kenosaba.com pentagon_sk_game_guides_PROD_be
 adm.numberx.win pentagon_gn_admin_site_PROD_be
 adm2.numberx.win pentagon_gn_admin_site_PROD_be
 # Internal
