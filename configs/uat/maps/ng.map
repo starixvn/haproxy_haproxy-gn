@@ -1,3 +1,7 @@
+gnsitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
+sksitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
+gnuatadm.sgamesuat.com pentagon_gn_admin_site_UAT_be
+skuatadm.sgamesuat.com pentagon_gn_admin_site_UAT_be
 hduatlobby.sgamesuat.com pentagon_sp_hd_lobby_game_client_SIT_be
 hdsitresult.sgamesuat.com pentagon_sp_hd_game_result_SIT_be
 hduatresult.sgamesuat.com pentagon_sp_hd_game_result_UAT_be
@@ -24,10 +28,6 @@ gnuatresult.sgamesuat.com pentagon_gn_game_result_UAT_be
 intgnuatresult.nebula.prod pentagon_gn_game_result_UAT_be
 skuatresult.sgamesuat.com pentagon_gn_game_result_UAT_be
 vn-skuatresult.nebula.prod pentagon_gn_game_result_UAT_be
-gnsitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
-sksitadm.sgamesuat.com pentagon_gn_admin_site_SIT_be
-gnuatadm.sgamesuat.com pentagon_gn_admin_site_UAT_be
-skuatadm.sgamesuat.com pentagon_gn_admin_site_UAT_be
 gnminiuat.foodpandaoh.net pentagon_gn_instant_game_client_UAT_be
 gnminisit.foodpandaoh.net pentagon_gn_instant_game_client_SIT_be
 gnuat.foodpandaoh.net pentagon_gn_game_client_UAT_be
