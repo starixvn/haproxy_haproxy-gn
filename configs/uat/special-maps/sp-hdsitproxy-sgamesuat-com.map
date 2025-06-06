@@ -1,3 +1,4 @@
+^/sit/game-management-service(/.*)?$ pentagon_sp_hd_game_management_service_SIT_path_be
 ^/sit/footballcointoss(/.*)?$ pentagon_sp_hd_football_coin_toss_service_SIT_path_be
 ^/sit/luckynext2(/.*)?$ pentagon_sp_hd_lucky_next_2_service_SIT_path_be
 ^/sit/bacball2(/.*)?$ pentagon_sp_hd_bac_ball_2_service_SIT_path_be
