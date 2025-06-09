@@ -1,3 +1,4 @@
+^/uat/rocketx(/.*)?$ pentagon_sp_hd_rocketx_service_UAT_path_be
 ^/uat/footballcointoss(/.*)?$ pentagon_sp_hd_football_coin_toss_service_UAT_path_be
 ^/uat/portrait-client-55(/.*)?$ pentagon_sp_hd_unbalanced_big_small_client_UAT_path_be
 ^/uat/portrait-client-26(/.*)?$ pentagon_sp_hd_portrait_vip_baucua_client_UAT_path_be
