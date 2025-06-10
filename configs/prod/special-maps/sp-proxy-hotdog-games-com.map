@@ -1,3 +1,4 @@
+^/sicball(/.*)?$ pentagon_sp_hd_sic_ball_service_PROD_path_be
 ^/seball1(/.*)?$ pentagon_sp_hd_se_ball_1_service_PROD_path_be
 ^/notification(/.*)?$ pentagon_sp_hd_notification_service_PROD_path_be
 ^/luckythree(/.*)?$ pentagon_sp_hd_lucky_three_service_PROD_path_be
