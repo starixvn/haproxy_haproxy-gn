@@ -1,2 +1,3 @@
+^/dragontigerfight(/.*)?$ pentagon_sp_hd_dragon_tiger_fight_service_PROD_path_be
 ^/baccarat(/.*)?$ pentagon_sp_hd_baccarat_service_PROD_path_be
 ^/user(/.*)?$ pentagon_sp_hd_user_service_PROD_path_be
