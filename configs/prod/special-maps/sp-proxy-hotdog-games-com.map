@@ -1,3 +1,4 @@
+^/luckynext1(/.*)?$ pentagon_sp_hd_lucky_next_1_service_PROD_path_be
 ^/vsedie(/.*)?$ pentagon_sp_hd_vip_sedie_service_PROD_path_be
 ^/sedie(/.*)?$ pentagon_sp_hd_sedie_service_PROD_path_be
 ^/dragontigerfight(/.*)?$ pentagon_sp_hd_dragon_tiger_fight_service_PROD_path_be
