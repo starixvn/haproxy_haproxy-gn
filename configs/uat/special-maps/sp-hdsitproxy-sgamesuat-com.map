@@ -20,7 +20,7 @@
 ^/sit/portrait-client-10(/.*)?$ pentagon_sp_hd_direct_baccarat_game_client_SIT_path_be
 ^/sit/baccarat(/.*)?$ pentagon_sp_hd_baccarat_service_SIT_path_be
 ^/sit/vsedie(/.*)?$ pentagon_sp_hd_vip_sedie_service_SIT_path_be
-^/sit/shared-resources(/.*)?$ pentagon_sp_shared_client_resources_SIT_path_be
+^/sit/shared-resources(/.*)?$ pentagon_sp_hd_shared_client_resources_SIT_path_be
 ^/sit/sedie(/.*)?$ pentagon_sp_hd_sedie_service_SIT_path_be
 ^/sit/gateway(/.*)?$ pentagon_sp_hd_socket_gateway_SIT_path_be
 ^/sit/luckythree(/.*)?$ pentagon_sp_hd_lucky_three_service_SIT_path_be
