@@ -1,9 +1,9 @@
+^/portrait-client-2(/.*)?$ pentagon_sp_hd_portrait_sedie_game_client_PROD_path_be
 ^/game(/.*)?$ pentagon_sp_hd_game_configuration_service_PROD_path_be
 ^/bacball1(/.*)?$ pentagon_sp_hd_bac_ball_1_service_PROD_path_be
 ^/bacball2(/.*)?$ pentagon_sp_hd_bac_ball_2_service_PROD_path_be
 ^/portrait-client-10(/.*)?$ pentagon_sp_hd_direct_baccarat_game_client_PROD_path_be
 ^/portrait-client-67(/.*)?$ pentagon_sp_hd_dragon_tiger_fight_client_PROD_path_be
-^/portrait-client-2(/.*)?$ pentagon_sp_hd_portrait_sedie_game_client_PROD_path_be
 ^/portrait-client-22(/.*)?$ pentagon_sp_hd_portrait_vip_sedie_client_PROD_path_be
 ^/shared-resources(/.*)?$ pentagon_sp_hd_shared_client_resources_PROD_path_be
 ^/sicball(/.*)?$ pentagon_sp_hd_sic_ball_service_PROD_path_be
