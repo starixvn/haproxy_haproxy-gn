@@ -1,3 +1,4 @@
+^/sit/marblefootball2(/.*)?$ pentagon_sp_hd_marblefootball2_service_SIT_path_be
 ^/sit/portrait-client-114(/.*)?$ pentagon_sp_hd_portrait_marble_football_2_client_SIT_path_be
 ^/sit/portrait-client-93(/.*)?$ pentagon_sp_hd_football_coin_toss_client_SIT_path_be
 ^/sit/rocketx(/.*)?$ pentagon_sp_hd_rocketx_service_SIT_path_be
